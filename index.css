@@ -1,13 +1,25 @@
-.navbar{
+@font-face {
+    font-family: 'Sora';
+    src: url('https://fonts.googleapis.com/css2?family=Sora:wght@300&display=swap');
+  }
+  
+  .navbar {
     display: inline-block;
-    background-color: #C080D6;
+    background-color: #FFF;
     border-radius: 50px;
-   font-size: 25px;
-   text-align: center;
-   word-spacing: 10px;
-   height: 100px;
-}
-.navbar img{
+    font-size: 25px;
+    text-align: center;
+    word-spacing: 10px;
+    height: 100px;
+    border-top: 0px;
+    border-right: 0px;
+    border-bottom: 5px;
+    border-left: 0px;
+    border-style: solid;
+    border-color: gray;
+  }
+  
+  .navbar img {
     height: 100px;
     width: 100px;
     margin: 0;
@@ -15,13 +27,25 @@
     top: 10px;
     position: relative;
     margin-right: 0;
-    
-}
-.navbar li {
-     text-align: center;
-     display: inline-block;
-     margin-left: 5px;
-     bottom: 30px;
-     position: relative;
-     right: 60px;
-}
+  
+  }
+  
+  .navbar li {
+    text-align: center;
+    display: inline-block;
+    margin-left: 5px;
+    bottom: 30px;
+    position: relative;
+    right: 60px;
+    font-family: Sora, serif;
+  
+  }
+  
+  .navbar li:hover {
+    color: orange;
+  }
+  
+  input {
+    display: inline;
+  }
+  
