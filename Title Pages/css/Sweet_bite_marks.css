@@ -1,0 +1,89 @@
+.navbar {
+  
+    display: inline-block;
+     background-color: #FFF;
+     border-radius: 50px;
+     font-size: 25px;
+     text-align: center;
+     word-spacing: 10px;
+     height: 100px;
+     border-top: 0px;
+     border-right: 0px;
+     border-bottom: 5px;
+     border-left: 0px;
+     border-style: solid;
+     border-color: gray;
+   }
+   
+   .navbar img {
+     height: 100px;
+     width: 100px;
+     margin: 0;
+     right: 50px;
+     top: 10px;
+     position: relative;
+     margin-right: 0;
+   
+   }
+    .title_info h2 {
+      border-style: dotted;
+      border-top: 0px;
+      border-right: 0px;
+      border-left: 0px;
+      border-bottom: 2px;
+      border-color: gray;
+     
+      margin-top: 20px;
+    }
+   
+   .navbar li {
+     text-align: center;
+     display: inline-block;
+     margin-left: 5px;
+     bottom: 30px;
+     position: relative;
+     right: 60px;
+     font-family: Sora, serif;
+   
+   }
+   
+   .navbar li:hover {
+     color: orange;
+   }
+    .title_info {
+      border-style: solid;
+      border-width: 2px;
+      border-radius: 10px;
+      padding: 15px;
+    }
+    .title_info ul {
+      position: relative;
+      display: inline;
+      left: 300px;
+      bottom: 300px;
+      
+    }
+    .upload {
+      height: 60px;
+      width: 60px;
+      border-radius: 15px;
+      position: relative;
+      left: 470px;
+      bottom: 25px;
+    }
+    a:link {
+        text-decoration: none;
+  }
+  
+  a:visited {
+        text-decoration: none;
+  }
+  
+  a:hover {
+        text-decoration: none;
+  }
+  
+  a:active {
+        text-decoration: none;
+  }
+   
