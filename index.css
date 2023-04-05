@@ -65,3 +65,19 @@ a:active {
   left: 100px;
   
 }
+.sign_user {
+  display: inline;
+
+}
+.sign_in {
+  background-color: #D3A6E2;
+  color:#FFF;
+  border-style: solid;
+  border-width: 5px;
+  margin-right: 9px;
+  position: relative;
+  bottom: 30px;
+  right: 100px;
+  padding: 5px;
+  font-size: 25px;
+}
