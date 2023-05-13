@@ -34,8 +34,8 @@
      
     width: 9%;
     margin: 0;
-    left: 60%;
-    top: 10px;
+    
+    
     position: relative;
     margin-right: 0;
   }
@@ -84,15 +84,15 @@ a { color: inherit; }
   position: relative;
   bottom: 110px;
   
-  padding: 20px;
+  
   font-size: 25px;
-  display: inline;
+  
   height: 100px;
   
   margin-left: 10px;
 }
 .sign_up {
-  background-color: #FFF;
+  
   color: black;
  
   
@@ -100,9 +100,9 @@ a { color: inherit; }
   position: relative;
   bottom: 110px;
   
-  padding: 18px;
+ 
   font-size: 25px;
-  display: inline;
+  
   
   height: 100px;
   text-align: center;
